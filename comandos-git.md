@@ -4,4 +4,12 @@
 
 ```
 git init
+``` 
+
+2. Comando para verficar la conexión de mi repositorio con Git Hub
+
 ```
+git remote -v
+```
+
+
