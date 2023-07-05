@@ -21,6 +21,15 @@ Es una instantánea de nuestro proyecto en cuanto a los cambios realizados.
 ```
 git add <nombre-del-archivo-modificado>
 ```
+6. ¿Qué comando utilizo para agregar archivos preparados al repositorio?
 
+```
+git commit -m "mensaje"
+```
+El mensaje debe ser descriptivo para tener claridad sobre la información que aloja.
+
+7. ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+
+Puede ser main o master y lo definimos al momento de la instalación de Git.
 
  
